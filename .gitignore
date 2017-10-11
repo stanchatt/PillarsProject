@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+## Compiled Python files
+*.pyc
+*.pyo
+
+# JetBrains Rider
+.idea/
+*.sln.iml
