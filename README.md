@@ -2,11 +2,11 @@
 *<p align="center">by Colossus With Added Sugar Games</p>*
 
 ## 1.Overview 
-Pillars is an indie game built for the PC. The Player is in control of a Hero and must defend a town from incoming raiders that seek to destroy the players pillar. As the player defends the town he/she is given more rewards and grow in power allowing the player to place down towers and barricades along with different pieces of equipment that they can wield. 
+Pillars is an indie game built for Windows. The Player is in control of 4 heroes and must defend a town from a rival god & his acolytes that seek to destroy the players pillar. As the player defends the town he/she is given more rewards and grows in power allowing the Player to fight the harder enemies that spawn.
 ##### 1.1 Vision Statement 
 To the player. The game must feel the following things 
  
-Dynamic – The game must feel like it flows and everything goes together well, from the graphics and animations to the combat and resource management 
+Dynamic – The game must feel like it flows and everything goes together well, from the graphics and animations to the combat and resource management.
 
 Strategical - Pillars gameplay must feel like it is challenging and require the player to be strategical on how they handle situations. 
 
@@ -34,7 +34,7 @@ The goal is to defend your village from the wraith of the gods. After successful
 ## 3.Environment   
 
 ##### 3.1 Components
-The game will have different type of tile sets which have unique when the player is standing on it. These tile sets include desert, swamp, grass, and hill. The tile sets will be procedurally generate within each level of the game.
+The game will have different type of tile sets which have unique effects when the player is standing on it. These tile sets include desert, swamp, grass, and hill. The tile sets will be procedurally generate within each level of the game.
 ##### 3.2 Terrain Effects 
 Desert- Reduce accuracy   
 Swamp- Movement decrease   
